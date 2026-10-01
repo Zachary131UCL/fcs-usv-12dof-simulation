@@ -4,7 +4,9 @@ Public, browser-based review of the coupled floating charging station (FCS) and 
 
 ## Open the site
 
-The published site is served through GitHub Pages. For a local preview, open `index.html` in a modern browser.
+**Public site:** <https://zachary131ucl.github.io/fcs-usv-12dof-simulation/>
+
+For a local preview, open `index.html` in a modern browser.
 
 ## Contents
 
